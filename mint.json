@@ -52,9 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "Aurea Staff Documents",
-        "Guidelines",
-        "Code of Conduct"
+        "introduction",
+        "quickstar",
+        "information"
       ]
     },
     {
